@@ -9,7 +9,7 @@ This a mini project in python. A simple python script to automatically organize 
 ## Example
 **Before Sorting**
 
-![Screenshot (210)](https://github.com/user-attachments/assets/c9375567-efb8-47ac-807e-cd503bc196ce)
+![Screenshot (210)](https://github.com/user-attachments/assets/f21e4499-fb1c-434c-aafb-82a11394daf5)
 
 
 
